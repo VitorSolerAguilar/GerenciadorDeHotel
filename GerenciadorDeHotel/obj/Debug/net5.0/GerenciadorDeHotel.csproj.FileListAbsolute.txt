@@ -1,0 +1,16 @@
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\GerenciadorDeHotel.exe
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\GerenciadorDeHotel.deps.json
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\GerenciadorDeHotel.runtimeconfig.json
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\GerenciadorDeHotel.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\GerenciadorDeHotel.dll
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\ref\GerenciadorDeHotel.dll
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\bin\Debug\net5.0\GerenciadorDeHotel.pdb
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.dll
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\ref\GerenciadorDeHotel.dll
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.pdb
+C:\Users\Vitor\Desktop\GerenciadorDeHotel\GerenciadorDeHotel\obj\Debug\net5.0\GerenciadorDeHotel.genruntimeconfig.cache
